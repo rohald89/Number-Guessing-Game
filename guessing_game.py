@@ -55,9 +55,5 @@ def start_game():
     else:
         print("Thanks for playing! Cya next time 🙂")
 
-    # write your code inside this function.
 
-
-
-# Kick off the program by calling the start_game function.
 start_game()
